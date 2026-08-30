@@ -1,0 +1,7 @@
+{
+  "name": "KeepSafe",
+  "description": "A voice-controlled, weather-aware home automation platform with real-time 3D spatial monitoring and intelligent environmental protection rules.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
